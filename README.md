@@ -22,7 +22,7 @@ Our project/ idea focuses on studying disease patterns and alerting potential vi
 
 <b>Motivation</b>:
 
-1. Every user's data entry is vital for the app to work effectively, and they serve a noble cause by alerting about potential epidemic outbreaks.
+1. Every user's data entry is vital for the app to work effectively, and they serve a noble cause towards alerting the public about potential epidemic outbreaks.
 
 2. Every honest user gets a credit score which they can make use of in e-commerce outlets, online stores, etc.
 
